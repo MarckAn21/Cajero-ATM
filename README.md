@@ -1,0 +1,1 @@
+En este proyecto trato de simular el entorno de un cajero automatico, si bien solo funciona para un usuario, creo que reune ciertos requitos que lo hacen funcional y practico, yo como principinate de espero y les agrade mi trabajo
